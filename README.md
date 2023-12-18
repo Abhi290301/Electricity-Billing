@@ -1,0 +1,1 @@
+This is a Electricity billing project in java that will contain two parts the Admin part which refers to the electricity boards admins and second part is user part who have the electricity connection or need a new electricity connection.
